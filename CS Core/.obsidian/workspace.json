@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "25b3e1c440c680b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a82a36be8403fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3fbccfecb5bb68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/4. Hardware Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Hardware Review"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79f32881818bb6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e128a172f950f59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0673c80e13437cfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2602b08ada7e9086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a4073e6a13ef0e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "63b28a55e483b85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c4477211e96bc72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd61d2e5ce644bbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating Systems/2. Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. Introduction"
+            }
+          },
+          {
+            "id": "c66a3edf064def85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating Systems/2. Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. Introduction"
+            }
+          },
+          {
+            "id": "d20f6aff65110e53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cde712743d9201d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating Systems/2. Introduction.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0673c80e13437cfe",
+  "lastOpenFiles": [
+    "Operating Systems/3. History.md",
+    "Operating Systems/2. Introduction.md",
+    "Operating Systems/1. Roadmap.md",
+    "Operating Systems/4. Hardware Review.md",
+    "imgs/{57D4D71E-2F24-4EE5-A21E-CCB0473080BD}.png",
+    "imgs",
+    "imgs/{39270080-F4D6-4B7F-8198-33FDAD05A3B3}.png",
+    "create a link.md",
+    "Welcome.md",
+    "Operating Systems/desktop.ini",
+    "Operating Systems",
+    "desktop.ini"
+  ]
+}
