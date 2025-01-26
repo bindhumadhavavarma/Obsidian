@@ -154,27 +154,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0673c80e13437cfe",
+  "active": "e3fbccfecb5bb68c",
   "lastOpenFiles": [
     "Operating Systems/3. History.md",
     "Operating Systems/2. Introduction.md",
-    "Operating Systems/1. Roadmap.md",
     "Operating Systems/4. Hardware Review.md",
+    "Operating Systems/1. Roadmap.md",
+    "desktop.ini",
     "imgs/{57D4D71E-2F24-4EE5-A21E-CCB0473080BD}.png",
     "imgs",
     "imgs/{39270080-F4D6-4B7F-8198-33FDAD05A3B3}.png",
     "create a link.md",
     "Welcome.md",
     "Operating Systems/desktop.ini",
-    "Operating Systems",
-    "desktop.ini"
+    "Operating Systems"
   ]
 }
