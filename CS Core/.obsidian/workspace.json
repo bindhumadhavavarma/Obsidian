@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Outline of 2. Introduction"
             }
+          },
+          {
+            "id": "2349d04468e68d87",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,16 +174,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3fbccfecb5bb68c",
+  "active": "0673c80e13437cfe",
   "lastOpenFiles": [
     "Operating Systems/3. History.md",
-    "Operating Systems/2. Introduction.md",
-    "Operating Systems/4. Hardware Review.md",
     "Operating Systems/1. Roadmap.md",
+    "Operating Systems/4. Hardware Review.md",
+    "Operating Systems/2. Introduction.md",
     "desktop.ini",
-    "imgs/{57D4D71E-2F24-4EE5-A21E-CCB0473080BD}.png",
-    "imgs",
-    "imgs/{39270080-F4D6-4B7F-8198-33FDAD05A3B3}.png",
+    "assets/{57D4D71E-2F24-4EE5-A21E-CCB0473080BD}.png",
+    "assets",
+    "assets/{39270080-F4D6-4B7F-8198-33FDAD05A3B3}.png",
     "create a link.md",
     "Welcome.md",
     "Operating Systems/desktop.ini",
