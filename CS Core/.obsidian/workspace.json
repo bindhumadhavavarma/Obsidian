@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/2. Processes and Threads/2.2 Threads.md",
+                "file": "Operating Systems/QnA/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Threads"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,9 +177,9 @@
   },
   "active": "52c87dad810e49a9",
   "lastOpenFiles": [
-    "Operating Systems/QnA/1. Introduction.md",
-    "Operating Systems/2. Processes and Threads/2.2 Threads.md",
     "Operating Systems/2. Processes and Threads/2.1 Processes.md",
+    "Operating Systems/2. Processes and Threads/2.2 Threads.md",
+    "Operating Systems/QnA/1. Introduction.md",
     "assets/{EE65766E-824B-40A5-8B0A-8BAE5ABD8D45}.png",
     "assets/{0D7E5FC5-F1EC-4ADD-8E03-E629D0F8296B}.png",
     "assets/{D71328AD-158A-4CF8-990B-F0DB977BDB11}.png",
