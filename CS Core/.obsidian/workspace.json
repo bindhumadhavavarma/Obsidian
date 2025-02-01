@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/QnA/1. Introduction.md",
+                "file": "Operating Systems/2. Processes and Threads/2.5 Synchronization and IPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "2.5 Synchronization and IPC"
             }
           }
         ]
@@ -177,9 +177,15 @@
   },
   "active": "52c87dad810e49a9",
   "lastOpenFiles": [
+    "Operating Systems/2. Processes and Threads/2.4 Event-Driven Servers.md",
+    "Operating Systems/2. Processes and Threads/2.5 Synchronization and IPC.md",
+    "Operating Systems/1. Introduction/1. Roadmap.md",
+    "Operating Systems/2. Processes and Threads/2.3 Thread Model & Implementation.md",
     "Operating Systems/2. Processes and Threads/2.1 Processes.md",
-    "Operating Systems/2. Processes and Threads/2.2 Threads.md",
+    "Operating Systems/1. Introduction/6. OS Concepts.md",
+    "Operating Systems/1. Introduction/5. Hardware Review - 2.md",
     "Operating Systems/QnA/1. Introduction.md",
+    "Operating Systems/2. Processes and Threads/2.2 Threads.md",
     "assets/{EE65766E-824B-40A5-8B0A-8BAE5ABD8D45}.png",
     "assets/{0D7E5FC5-F1EC-4ADD-8E03-E629D0F8296B}.png",
     "assets/{D71328AD-158A-4CF8-990B-F0DB977BDB11}.png",
@@ -191,15 +197,12 @@
     "assets/{C8AA17AD-CE03-4812-9A35-059A232598E1}.png",
     "Operating Systems/1. Introduction/4. Hardware Review.md",
     "assets/{4B53FACE-259E-46F3-AC24-0A0FBC39A382}.png",
-    "Operating Systems/1. Introduction/6. OS Concepts.md",
     "Operating Systems/1. Introduction/7. System Calls.md",
     "Operating Systems/1. Introduction",
     "assets/{693DD376-D5F5-4BDC-8BED-8D170E170575}.png",
     "assets/Pasted image 20250129224045.png",
-    "Operating Systems/1. Introduction/1. Roadmap.md",
     "assets/{CD646512-DA72-4316-8F42-E9F744395C11}.png",
     "assets/{4DF030D1-97C0-4137-93FA-CFF4CE8DA370}.png",
-    "Operating Systems/1. Introduction/5. Hardware Review - 2.md",
     "Operating Systems/1. Introduction/3. History.md",
     "Operating Systems/1. Introduction/2. Introduction.md",
     "Operating Systems/6. Operating Systems Zoo.md",
