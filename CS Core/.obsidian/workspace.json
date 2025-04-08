@@ -11,10 +11,14 @@
             "id": "52c87dad810e49a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/3. Memory Management/3.8 Page Replacement Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.8 Page Replacement Algorithms"
             }
           }
         ]
@@ -171,9 +175,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52c87dad810e49a9",
+  "active": "0673c80e13437cfe",
   "lastOpenFiles": [
+    "Operating Systems/3. Memory Management/3.7 Multi Level Page Tables.md",
+    "Operating Systems/3. Memory Management/3.8 Page Replacement Algorithms.md",
+    "Operating Systems/3. Memory Management/3.6 Speeding up Paging.md",
+    "Operating Systems/3. Memory Management/3.5 Page Tables.md",
     "Operating Systems/3. Memory Management/3.4 Paging.md",
+    "assets/{22EE5C05-759B-48F0-9BDA-60CF82A1F082}.png",
     "assets/{9A02F5C2-75E4-4DB4-B0F1-A1F5C90A829D}.png",
     "Operating Systems/3. Memory Management/3.3 Managing Free Memory.md",
     "Operating Systems/3. Memory Management/3.2 Memory Abstraction.md",
@@ -199,22 +208,18 @@
     "Operating Systems/1. Introduction/5. Hardware Review - 2.md",
     "Operating Systems/1. Introduction/4. Hardware Review.md",
     "Operating Systems/1. Introduction/3. History.md",
-    "Operating Systems/1. Introduction/2. Introduction.md",
     "assets/{9E72209C-4EE0-4C28-BCE1-8108BC06AB14}.png",
     "assets/{10F224C1-E1A9-4BB9-AC0A-616D5DC96A11}.png",
     "assets/{E21357DB-9C3D-4B48-A35D-096FAA92036B}.png",
     "assets/Pasted image 20250203222815.png",
     "assets/Pasted image 20250203222813.png",
     "assets/Pasted image 20250203222755.png",
-    "assets/{EE65766E-824B-40A5-8B0A-8BAE5ABD8D45}.png",
     "Operating Systems/2. Processes and Threads",
     "Operating Systems/Untitled.canvas",
     "Operating Systems/QnA",
     "Operating Systems/1. Introduction",
-    "Operating Systems/6. Operating Systems Zoo.md",
     "desktop.ini",
     "assets",
-    "create a link.md",
     "Operating Systems/desktop.ini",
     "Operating Systems"
   ]
