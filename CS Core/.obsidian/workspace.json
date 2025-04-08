@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 551.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,15 +173,23 @@
   },
   "active": "52c87dad810e49a9",
   "lastOpenFiles": [
+    "Operating Systems/3. Memory Management/3.4 Paging.md",
+    "assets/{9A02F5C2-75E4-4DB4-B0F1-A1F5C90A829D}.png",
+    "Operating Systems/3. Memory Management/3.3 Managing Free Memory.md",
+    "Operating Systems/3. Memory Management/3.2 Memory Abstraction.md",
+    "assets/{6D7E629B-E6EF-4AAF-B965-FBB00C28E82E}.png",
+    "Operating Systems/3. Memory Management/3.1 No Memory Abstraction.md",
     "Operating Systems/QnA/2. Processes and Threads.md",
+    "Operating Systems/2. Processes and Threads/2.1 Processes.md",
+    "Operating Systems/2. Processes and Threads/2.9 Thread Scheduling.md",
+    "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
+    "Operating Systems/1. Introduction/1. Roadmap.md",
     "Operating Systems/3. Memory Management",
     "Operating Systems/QnA/1. Introduction.md",
     "Operating Systems/2. Processes and Threads/2.2 Threads.md",
     "Operating Systems/2. Processes and Threads/2.4 Event-Driven Servers.md",
-    "Operating Systems/2. Processes and Threads/2.9 Thread Scheduling.md",
     "Operating Systems/2. Processes and Threads/2.8 Scheduling.md",
     "Operating Systems/2. Processes and Threads/2.7 Message Passing.md",
-    "Operating Systems/2. Processes and Threads/2.1 Processes.md",
     "Operating Systems/2. Processes and Threads/2.3 Thread Model & Implementation.md",
     "Operating Systems/2. Processes and Threads/2.5 Synchronization and IPC.md",
     "Operating Systems/2. Processes and Threads/2.6 Synchronization and IPC 2.md",
@@ -192,7 +200,6 @@
     "Operating Systems/1. Introduction/4. Hardware Review.md",
     "Operating Systems/1. Introduction/3. History.md",
     "Operating Systems/1. Introduction/2. Introduction.md",
-    "Operating Systems/1. Introduction/1. Roadmap.md",
     "assets/{9E72209C-4EE0-4C28-BCE1-8108BC06AB14}.png",
     "assets/{10F224C1-E1A9-4BB9-AC0A-616D5DC96A11}.png",
     "assets/{E21357DB-9C3D-4B48-A35D-096FAA92036B}.png",
@@ -200,18 +207,14 @@
     "assets/Pasted image 20250203222813.png",
     "assets/Pasted image 20250203222755.png",
     "assets/{EE65766E-824B-40A5-8B0A-8BAE5ABD8D45}.png",
-    "assets/{0D7E5FC5-F1EC-4ADD-8E03-E629D0F8296B}.png",
-    "assets/{D71328AD-158A-4CF8-990B-F0DB977BDB11}.png",
     "Operating Systems/2. Processes and Threads",
     "Operating Systems/Untitled.canvas",
     "Operating Systems/QnA",
-    "assets/{87D9A904-5FC7-441C-8B62-7DBD09E5337B}.png",
     "Operating Systems/1. Introduction",
     "Operating Systems/6. Operating Systems Zoo.md",
     "desktop.ini",
     "assets",
     "create a link.md",
-    "Welcome.md",
     "Operating Systems/desktop.ini",
     "Operating Systems"
   ]
