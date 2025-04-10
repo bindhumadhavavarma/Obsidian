@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/3. Memory Management/3.12 Segmentation.md",
+                "file": "Operating Systems/QnA/3. Memory Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.12 Segmentation"
+              "title": "3. Memory Management"
             }
           }
         ]
@@ -175,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0673c80e13437cfe",
+  "active": "52c87dad810e49a9",
   "lastOpenFiles": [
-    "Operating Systems/3. Memory Management/3.11 Paging - Implementation Issues.md",
     "Operating Systems/3. Memory Management/3.12 Segmentation.md",
+    "Operating Systems/QnA/3. Memory Management.md",
+    "Operating Systems/3. Memory Management/3.11 Paging - Implementation Issues.md",
     "Operating Systems/3. Memory Management/3.10 Paging - Design Issues.md",
     "Operating Systems/3. Memory Management/3.9 Paging - Design Issues.md",
     "Operating Systems/3. Memory Management/3.8 Page Replacement Algorithms.md",
@@ -207,7 +208,6 @@
     "Operating Systems/2. Processes and Threads/2.5 Synchronization and IPC.md",
     "Operating Systems/2. Processes and Threads/2.6 Synchronization and IPC 2.md",
     "Operating Systems/1. Introduction/8. Operating System Structures.md",
-    "Operating Systems/1. Introduction/7. System Calls.md",
     "assets/{9E72209C-4EE0-4C28-BCE1-8108BC06AB14}.png",
     "assets/{10F224C1-E1A9-4BB9-AC0A-616D5DC96A11}.png",
     "assets/{E21357DB-9C3D-4B48-A35D-096FAA92036B}.png",
