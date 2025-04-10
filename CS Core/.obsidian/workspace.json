@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/3. Memory Management/3.8 Page Replacement Algorithms.md",
+                "file": "Operating Systems/3. Memory Management/3.11 Paging - Implementation Issues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.8 Page Replacement Algorithms"
+              "title": "3.11 Paging - Implementation Issues"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aging",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,27 +175,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0673c80e13437cfe",
+  "active": "52c87dad810e49a9",
   "lastOpenFiles": [
-    "Operating Systems/3. Memory Management/3.7 Multi Level Page Tables.md",
+    "Operating Systems/3. Memory Management/3.10 Paging - Design Issues.md",
+    "Operating Systems/3. Memory Management/3.11 Paging - Implementation Issues.md",
+    "Operating Systems/3. Memory Management/3.9 Paging - Design Issues.md",
     "Operating Systems/3. Memory Management/3.8 Page Replacement Algorithms.md",
+    "Operating Systems/1. Introduction/1. Roadmap.md",
+    "Operating Systems/QnA/2. Processes and Threads.md",
+    "Operating Systems/3. Memory Management/3.7 Multi Level Page Tables.md",
     "Operating Systems/3. Memory Management/3.6 Speeding up Paging.md",
     "Operating Systems/3. Memory Management/3.5 Page Tables.md",
     "Operating Systems/3. Memory Management/3.4 Paging.md",
-    "assets/{22EE5C05-759B-48F0-9BDA-60CF82A1F082}.png",
-    "assets/{9A02F5C2-75E4-4DB4-B0F1-A1F5C90A829D}.png",
     "Operating Systems/3. Memory Management/3.3 Managing Free Memory.md",
     "Operating Systems/3. Memory Management/3.2 Memory Abstraction.md",
-    "assets/{6D7E629B-E6EF-4AAF-B965-FBB00C28E82E}.png",
     "Operating Systems/3. Memory Management/3.1 No Memory Abstraction.md",
-    "Operating Systems/QnA/2. Processes and Threads.md",
+    "Operating Systems/2. Processes and Threads/2.2 Threads.md",
+    "assets/{22EE5C05-759B-48F0-9BDA-60CF82A1F082}.png",
+    "assets/{9A02F5C2-75E4-4DB4-B0F1-A1F5C90A829D}.png",
+    "assets/{6D7E629B-E6EF-4AAF-B965-FBB00C28E82E}.png",
     "Operating Systems/2. Processes and Threads/2.1 Processes.md",
     "Operating Systems/2. Processes and Threads/2.9 Thread Scheduling.md",
     "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
-    "Operating Systems/1. Introduction/1. Roadmap.md",
     "Operating Systems/3. Memory Management",
     "Operating Systems/QnA/1. Introduction.md",
-    "Operating Systems/2. Processes and Threads/2.2 Threads.md",
     "Operating Systems/2. Processes and Threads/2.4 Event-Driven Servers.md",
     "Operating Systems/2. Processes and Threads/2.8 Scheduling.md",
     "Operating Systems/2. Processes and Threads/2.7 Message Passing.md",
@@ -205,9 +208,6 @@
     "Operating Systems/1. Introduction/8. Operating System Structures.md",
     "Operating Systems/1. Introduction/7. System Calls.md",
     "Operating Systems/1. Introduction/6. OS Concepts.md",
-    "Operating Systems/1. Introduction/5. Hardware Review - 2.md",
-    "Operating Systems/1. Introduction/4. Hardware Review.md",
-    "Operating Systems/1. Introduction/3. History.md",
     "assets/{9E72209C-4EE0-4C28-BCE1-8108BC06AB14}.png",
     "assets/{10F224C1-E1A9-4BB9-AC0A-616D5DC96A11}.png",
     "assets/{E21357DB-9C3D-4B48-A35D-096FAA92036B}.png",
