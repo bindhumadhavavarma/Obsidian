@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/4. File Systems/4.7 File System - Examples.md",
+                "file": "Operating Systems/5. Input Output/5.2 Principles of IO Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.7 File System - Examples"
+              "title": "5.2 Principles of IO Software"
             }
           }
         ]
@@ -177,8 +177,14 @@
   },
   "active": "52c87dad810e49a9",
   "lastOpenFiles": [
-    "Operating Systems/4. File Systems/4.6 File System - Performance.md",
+    "Operating Systems/5. Input Output/5.2 Principles of IO Hardware 2.md",
+    "Operating Systems/5. Input Output/5.2 Principles of IO Software.md",
+    "assets/{8F5852CA-664C-4BBF-9155-2EB458090E69}.png",
+    "Operating Systems/5. Input Output/5.1 Principles of IO Hardware.md",
+    "assets/{936C5003-E39C-4081-8650-356401231D8D}.png",
     "Operating Systems/4. File Systems/4.7 File System - Examples.md",
+    "Operating Systems/5. Input Output",
+    "Operating Systems/4. File Systems/4.6 File System - Performance.md",
     "assets/{02149781-494C-4862-9A10-E63F935C9E9A}.png",
     "Operating Systems/4. File Systems/4.5 File System - Consistency.md",
     "Operating Systems/4. File Systems/4.4 File System - Management & Optimisation.md",
@@ -209,11 +215,6 @@
     "Operating Systems/3. Memory Management/3.4 Paging.md",
     "Operating Systems/3. Memory Management/3.3 Managing Free Memory.md",
     "Operating Systems/3. Memory Management/3.2 Memory Abstraction.md",
-    "Operating Systems/3. Memory Management/3.1 No Memory Abstraction.md",
-    "Operating Systems/2. Processes and Threads/2.2 Threads.md",
-    "assets/{22EE5C05-759B-48F0-9BDA-60CF82A1F082}.png",
-    "assets/{9A02F5C2-75E4-4DB4-B0F1-A1F5C90A829D}.png",
-    "Operating Systems/2. Processes and Threads/2.1 Processes.md",
     "Operating Systems/3. Memory Management",
     "Operating Systems/2. Processes and Threads",
     "Operating Systems/Untitled.canvas",
