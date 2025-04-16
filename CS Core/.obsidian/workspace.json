@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/5. Input Output/Summary.md",
+                "file": "Operating Systems/6. Deadlocks/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -177,9 +177,17 @@
   },
   "active": "0673c80e13437cfe",
   "lastOpenFiles": [
+    "Operating Systems/6. Deadlocks/6.6 Other Issues.md",
+    "Operating Systems/6. Deadlocks/Summary.md",
+    "Operating Systems/6. Deadlocks/6.5 Deadlock Prevention.md",
+    "Operating Systems/6. Deadlocks/6.4 Deadlock Avoidance.md",
+    "Operating Systems/6. Deadlocks/6.3 Deadlock detection and Recovery.md",
+    "assets/{84099617-5F5F-4E8A-8FEC-074AD5543DEB}.png",
+    "Operating Systems/6. Deadlocks/6.2 Deadlock Modelling.md",
+    "Operating Systems/6. Deadlocks/6.1 Resources.md",
+    "Operating Systems/5. Input Output/Summary.md",
     "Operating Systems/6. Deadlocks",
     "Operating Systems/5. Input Output/5.10 Power Management.md",
-    "Operating Systems/5. Input Output/Summary.md",
     "Operating Systems/5. Input Output/5.9 GUI.md",
     "Operating Systems/5. Input Output/5.8 Output Software.md",
     "Operating Systems/5. Input Output/5.7 Clocks & Input software.md",
@@ -205,24 +213,16 @@
     "Operating Systems/4. File Systems/4.4 File System - Management & Optimisation.md",
     "assets/{5ADB3351-7D38-4500-A362-B9F99B708D2C}.png",
     "Operating Systems/4. File Systems/4.4 File System - Implementation 2.md",
-    "Operating Systems/4. File Systems/4.3 File System - Implementation.md",
-    "Operating Systems/4. File Systems/4.2 Directories.md",
-    "Operating Systems/4. File Systems/4.1 Files.md",
-    "Operating Systems/3. Memory Management/3.12 Segmentation.md",
     "Operating Systems/4. File Systems",
-    "Operating Systems/Untitled.md",
     "assets/{9E72209C-4EE0-4C28-BCE1-8108BC06AB14}.png",
     "assets/{693DD376-D5F5-4BDC-8BED-8D170E170575}.png",
     "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
-    "assets/Pasted image 20250203222813.png",
-    "Operating Systems/QnA/3. Memory Management.md",
     "Operating Systems/3. Memory Management",
     "Operating Systems/2. Processes and Threads",
     "Operating Systems/Untitled.canvas",
     "Operating Systems/QnA",
     "Operating Systems/1. Introduction",
     "desktop.ini",
-    "assets",
-    "Operating Systems/desktop.ini"
+    "assets"
   ]
 }
