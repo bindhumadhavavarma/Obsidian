@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/1. C++ Data Types.md",
+                "file": "Operating Systems/5. Input Output/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. C++ Data Types"
+              "title": "Summary"
             }
           }
         ]
@@ -175,22 +175,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c57590fae3914ef",
+  "active": "0673c80e13437cfe",
   "lastOpenFiles": [
-    "Operating Systems/5. Input Output/5.7 Clocks.md",
+    "Operating Systems/6. Deadlocks",
+    "Operating Systems/5. Input Output/5.10 Power Management.md",
+    "Operating Systems/5. Input Output/Summary.md",
+    "Operating Systems/5. Input Output/5.9 GUI.md",
+    "Operating Systems/5. Input Output/5.8 Output Software.md",
+    "Operating Systems/5. Input Output/5.7 Clocks & Input software.md",
+    "Operating Systems/5. Input Output/5.1 Principles of IO Hardware.md",
+    "Operating Systems/5. Input Output/5.2 Principles of IO Hardware 2.md",
+    "Operating Systems/5. Input Output/5.3 IO Software Layers.md",
+    "Operating Systems/5. Input Output/5.4 Principles of IO Software.md",
+    "Operating Systems/5. Input Output/5.5 Mass Storage - Disk and SSD.md",
+    "Operating Systems/5. Input Output/5.6 SSD and RAID.md",
     "C++/1. C++ Data Types.md",
     "C++",
-    "Operating Systems/5. Input Output/5.6 SSD and RAID.md",
     "assets/Pasted image 20250414193256.png",
-    "Operating Systems/5. Input Output/5.5 Mass Storage - Disk and SSD.md",
-    "Operating Systems/5. Input Output/5.4 Principles of IO Software.md",
-    "Operating Systems/5. Input Output/5.3 IO Software Layers.md",
     "assets/{210DC53B-78CA-419E-8793-4CB227F7D3B6}.png",
     "Operating Systems/3. Memory Management/3.1 No Memory Abstraction.md",
     "Operating Systems/1. Introduction/4. Hardware Review.md",
-    "Operating Systems/5. Input Output/5.2 Principles of IO Hardware 2.md",
     "assets/{8F5852CA-664C-4BBF-9155-2EB458090E69}.png",
-    "Operating Systems/5. Input Output/5.1 Principles of IO Hardware.md",
     "assets/{936C5003-E39C-4081-8650-356401231D8D}.png",
     "Operating Systems/4. File Systems/4.7 File System - Examples.md",
     "Operating Systems/5. Input Output",
@@ -211,11 +216,6 @@
     "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
     "assets/Pasted image 20250203222813.png",
     "Operating Systems/QnA/3. Memory Management.md",
-    "Operating Systems/3. Memory Management/3.11 Paging - Implementation Issues.md",
-    "Operating Systems/3. Memory Management/3.10 Paging - Design Issues.md",
-    "Operating Systems/3. Memory Management/3.9 Paging - Design Issues.md",
-    "Operating Systems/3. Memory Management/3.8 Page Replacement Algorithms.md",
-    "Operating Systems/1. Introduction/1. Roadmap.md",
     "Operating Systems/3. Memory Management",
     "Operating Systems/2. Processes and Threads",
     "Operating Systems/Untitled.canvas",
