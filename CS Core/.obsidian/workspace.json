@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "f7f0a74167934e3c",
+        "id": "d01fc57394990cac",
         "type": "tabs",
         "children": [
           {
-            "id": "6c57590fae3914ef",
+            "id": "a4a531892bc60d4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/1. C++ Data Types.md",
+                "file": "CS6210 Advanced Operating Systems/3. liedtke MicroKernel Paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. C++ Data Types"
+              "title": "3. liedtke MicroKernel Paper"
             }
           },
           {
-            "id": "21f7c55de122c771",
+            "id": "38c611c2bd0fb568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/3. References.md",
+                "file": "CS6746 Computer VIsion/TextBook/3. class 26-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. References"
+              "title": "3. class 26-08-25"
+            }
+          },
+          {
+            "id": "ceab9ff458339856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS7641 Machine Learning/1. Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Lecture 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"program status word\"",
+                "query": "monolithic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -190,54 +205,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21f7c55de122c771",
+  "active": "ceab9ff458339856",
   "lastOpenFiles": [
+    "CS6746 Computer VIsion/TextBook/1. Introduction.md",
+    "CS7641 Machine Learning/1. Lecture 1.md",
+    "CS7641 Machine Learning",
+    "CS6746 Computer VIsion/3. class 26-08-25.md",
+    "CS6235 Real Time Systems/3. class 26-08-25.md",
+    "CS6746 Computer VIsion/2. class 21-8-25.md",
+    "C/1. Introduction.md",
+    "CS6210 Advanced Operating Systems/4. class 3 25-08-25.md",
+    "C",
+    "CS6210 Advanced Operating Systems/3. liedtke MicroKernel Paper.md",
+    "CS6210 Advanced Operating Systems/2. class 2 (20-8-25).md",
+    "CS6746 Computer VIsion/TextBook",
+    "CS6746 Computer VIsion/Untitled.md",
+    "Operating Systems/1. Introduction/8. Operating System Structures.md",
     "C++/2. Pointers.md",
-    "C++/3. References.md",
+    "CS6235 Real Time Systems/1. Intro Class.md",
     "C++/1. C++ Data Types.md",
-    "Operating Systems/6. Deadlocks/Summary.md",
-    "Operating Systems/6. Deadlocks/6.6 Other Issues.md",
-    "Operating Systems/6. Deadlocks/6.5 Deadlock Prevention.md",
-    "Operating Systems/6. Deadlocks/6.4 Deadlock Avoidance.md",
-    "Operating Systems/6. Deadlocks/6.3 Deadlock detection and Recovery.md",
+    "C++/6. OOPS.md",
+    "C++/5. Functions.md",
+    "C++/Untitled",
+    "C++/4. Strings.md",
+    "C++/3. References.md",
+    "CS6235 Real Time Systems/2. Class 21-08-25.md",
+    "CS6746 Computer VIsion/1. Intro Class.md",
+    "Operating Systems/1. Introduction/6. OS Concepts.md",
+    "Operating Systems/2. Processes and Threads/2.5 Synchronization and IPC.md",
+    "Operating Systems/2. Processes and Threads/2.4 Event-Driven Servers.md",
+    "Operating Systems/2. Processes and Threads/2.3 Thread Model & Implementation.md",
+    "Operating Systems/1. Introduction/7. System Calls.md",
+    "Operating Systems/2. Processes and Threads/2.1 Processes.md",
+    "C++/5. Functions",
+    "CS6235 Real Time Systems",
+    "desktop.ini",
+    "CS6746 Computer VIsion",
+    "CS6210 Advanced Operating Systems",
+    "VISA",
     "assets/{84099617-5F5F-4E8A-8FEC-074AD5543DEB}.png",
-    "Operating Systems/6. Deadlocks/6.2 Deadlock Modelling.md",
-    "Operating Systems/6. Deadlocks/6.1 Resources.md",
-    "Operating Systems/5. Input Output/Summary.md",
-    "Operating Systems/6. Deadlocks",
-    "Operating Systems/5. Input Output/5.10 Power Management.md",
-    "Operating Systems/5. Input Output/5.9 GUI.md",
-    "Operating Systems/5. Input Output/5.8 Output Software.md",
-    "Operating Systems/5. Input Output/5.7 Clocks & Input software.md",
-    "Operating Systems/5. Input Output/5.1 Principles of IO Hardware.md",
-    "Operating Systems/5. Input Output/5.2 Principles of IO Hardware 2.md",
-    "Operating Systems/5. Input Output/5.3 IO Software Layers.md",
-    "Operating Systems/5. Input Output/5.4 Principles of IO Software.md",
-    "Operating Systems/5. Input Output/5.5 Mass Storage - Disk and SSD.md",
-    "Operating Systems/5. Input Output/5.6 SSD and RAID.md",
-    "C++",
     "assets/Pasted image 20250414193256.png",
     "assets/{210DC53B-78CA-419E-8793-4CB227F7D3B6}.png",
-    "Operating Systems/3. Memory Management/3.1 No Memory Abstraction.md",
-    "Operating Systems/1. Introduction/4. Hardware Review.md",
     "assets/{8F5852CA-664C-4BBF-9155-2EB458090E69}.png",
     "assets/{936C5003-E39C-4081-8650-356401231D8D}.png",
-    "Operating Systems/4. File Systems/4.7 File System - Examples.md",
-    "Operating Systems/5. Input Output",
-    "Operating Systems/4. File Systems/4.6 File System - Performance.md",
     "assets/{02149781-494C-4862-9A10-E63F935C9E9A}.png",
-    "Operating Systems/4. File Systems/4.5 File System - Consistency.md",
     "assets/{5ADB3351-7D38-4500-A362-B9F99B708D2C}.png",
-    "Operating Systems/4. File Systems",
     "assets/{9E72209C-4EE0-4C28-BCE1-8108BC06AB14}.png",
     "assets/{693DD376-D5F5-4BDC-8BED-8D170E170575}.png",
     "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
-    "Operating Systems/3. Memory Management",
-    "Operating Systems/2. Processes and Threads",
-    "Operating Systems/Untitled.canvas",
-    "Operating Systems/QnA",
-    "Operating Systems/1. Introduction",
-    "desktop.ini",
-    "assets"
+    "Operating Systems/Untitled.canvas"
   ]
 }
