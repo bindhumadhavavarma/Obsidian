@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "13bc6bfe6412357f",
+    "id": "25b3e1c440c680b8",
     "type": "split",
     "children": [
       {
-        "id": "bac71e16401af6f5",
+        "id": "d01fc57394990cac",
         "type": "tabs",
         "children": [
           {
-            "id": "b2edcd16ebe65cce",
+            "id": "a4a531892bc60d4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
+                "file": "CS6210 Advanced Operating Systems/3. liedtke MicroKernel Paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. camera intrinsics"
+              "title": "3. liedtke MicroKernel Paper"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4fb133e3d91c2621",
+    "id": "79f32881818bb6ef",
     "type": "split",
     "children": [
       {
-        "id": "99e107a70c326a65",
+        "id": "6e128a172f950f59",
         "type": "tabs",
         "children": [
           {
-            "id": "3fb786cf82d75a7c",
+            "id": "0673c80e13437cfe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "da080d31979c75da",
+            "id": "2602b08ada7e9086",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "monolithic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "89714e1b1e138abc",
+            "id": "1a4073e6a13ef0e5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336.5
   },
   "right": {
-    "id": "9b0fbd4115744395",
+    "id": "63b28a55e483b85a",
     "type": "split",
     "children": [
       {
-        "id": "4722414a2697275a",
+        "id": "8c4477211e96bc72",
         "type": "tabs",
         "children": [
           {
-            "id": "64a33cf7d2420887",
+            "id": "fd61d2e5ce644bbc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
+                "file": "Operating Systems/2. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,55 +104,50 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. camera intrinsics"
+              "title": "Backlinks for 2. Introduction"
             }
           },
           {
-            "id": "a72747b45a8b13ec",
+            "id": "c66a3edf064def85",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
+                "file": "Operating Systems/2. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. camera intrinsics"
+              "title": "Outgoing links from 2. Introduction"
             }
           },
           {
-            "id": "d3f29c8cf64f81b9",
+            "id": "d20f6aff65110e53",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "2588488e186f13d8",
+            "id": "cde712743d9201d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Operating Systems/2. Introduction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. camera intrinsics"
+              "title": "Outline of 2. Introduction"
             }
           },
           {
-            "id": "10bee1889a5fbaad",
+            "id": "2349d04468e68d87",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,10 +161,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -177,57 +173,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2edcd16ebe65cce",
+  "active": "0673c80e13437cfe",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Untitled.canvas",
+    "Operating Systems/1. Introduction/8. Operating System Structures.md",
+    "CS6210 Advanced Operating Systems/3. liedtke MicroKernel Paper.md",
+    "C++/2. Pointers.md",
+    "CS6235 Real Time Systems/1. Intro Class.md",
+    "CS6210 Advanced Operating Systems/2. class 2 (20-8-25).md",
+    "C++/1. C++ Data Types.md",
+    "C++/6. OOPS.md",
+    "C++/5. Functions.md",
+    "C++/Untitled",
+    "C++/4. Strings.md",
+    "C++/3. References.md",
+    "CS6235 Real Time Systems/2. Class 21-08-25.md",
+    "CS6746 Computer VIsion/2. class 21-8-25.md",
+    "CS6746 Computer VIsion/1. Intro Class.md",
+    "Operating Systems/1. Introduction/6. OS Concepts.md",
+    "Operating Systems/2. Processes and Threads/2.5 Synchronization and IPC.md",
+    "Operating Systems/2. Processes and Threads/2.4 Event-Driven Servers.md",
+    "Operating Systems/2. Processes and Threads/2.3 Thread Model & Implementation.md",
+    "Operating Systems/1. Introduction/7. System Calls.md",
+    "Operating Systems/2. Processes and Threads/2.1 Processes.md",
     "Operating Systems/QnA/2. Processes and Threads.md",
-    "Operating Systems/QnA/3. Memory Management.md",
     "Operating Systems/QnA/1. Introduction.md",
-    "Operating Systems/QnA",
-    "Operating Systems/6. Deadlocks/6.6 Other Issues.md",
-    "Operating Systems/6. Deadlocks/Summary.md",
-    "Operating Systems/6. Deadlocks/6.4 Deadlock Avoidance.md",
-    "Operating Systems/6. Deadlocks/6.5 Deadlock Prevention.md",
-    "Operating Systems/6. Deadlocks/6.3 Deadlock detection and Recovery.md",
-    "Operating Systems/6. Deadlocks/6.2 Deadlock Modelling.md",
-    "Operating Systems/6. Deadlocks/6.1 Resources.md",
+    "C++/5. Functions",
+    "CS6235 Real Time Systems",
+    "Operating Systems/3. Memory Management/3.5 Page Tables.md",
+    "desktop.ini",
+    "CS6746 Computer VIsion",
+    "Operating Systems/3. Memory Management/3.4 Paging.md",
+    "Operating Systems/3. Memory Management/3.12 Segmentation.md",
+    "Operating Systems/3. Memory Management/3.6 Speeding up Paging.md",
+    "Operating Systems/3. Memory Management/3.8 Page Replacement Algorithms.md",
+    "CS6210 Advanced Operating Systems",
+    "VISA",
+    "assets/{84099617-5F5F-4E8A-8FEC-074AD5543DEB}.png",
     "Operating Systems/6. Deadlocks",
-    "Operating Systems/5. Input Output/5.6 SSD and RAID.md",
-    "Operating Systems/5. Input Output/Summary.md",
-    "Operating Systems/5. Input Output/5.4 Principles of IO Software.md",
-    "Operating Systems/5. Input Output/5.9 GUI.md",
-    "Operating Systems/5. Input Output/5.8 Output Software.md",
-    "Operating Systems/5. Input Output/5.7 Clocks & Input software.md",
-    "Operating Systems/5. Input Output/5.5 Mass Storage - Disk and SSD.md",
-    "Operating Systems/5. Input Output/5.2 Principles of IO Hardware 2.md",
-    "Operating Systems/5. Input Output/5.3 IO Software Layers.md",
-    "Operating Systems/5. Input Output/5.10 Power Management.md",
-    "Operating Systems/5. Input Output/5.1 Principles of IO Hardware.md",
-    "Operating Systems/5. Input Output",
-    "Operating Systems/4. File Systems/4.7 File System - Examples.md",
-    "Operating Systems/4. File Systems/4.6 File System - Performance.md",
-    "Operating Systems/4. File Systems/4.5 File System - Consistency.md",
-    "Operating Systems/4. File Systems",
-    "Operating Systems/3. Memory Management",
-    "Operating Systems/2. Processes and Threads",
-    "Operating Systems/1. Introduction",
-    "Operating Systems",
-    "CS7641 Machine Learning",
-    "CS6746 Computer VIsion/TextBook",
-    "assets/{EE65766E-824B-40A5-8B0A-8BAE5ABD8D45}.png",
-    "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
-    "assets/{E21357DB-9C3D-4B48-A35D-096FAA92036B}.png",
-    "assets/{D71328AD-158A-4CF8-990B-F0DB977BDB11}.png",
-    "assets/{CD646512-DA72-4316-8F42-E9F744395C11}.png",
-    "assets/{C8AA17AD-CE03-4812-9A35-059A232598E1}.png",
-    "assets/{9E72209C-4EE0-4C28-BCE1-8108BC06AB14}.png",
-    "assets/{9A02F5C2-75E4-4DB4-B0F1-A1F5C90A829D}.png",
+    "C++",
+    "assets/Pasted image 20250414193256.png",
+    "assets/{210DC53B-78CA-419E-8793-4CB227F7D3B6}.png",
+    "assets/{8F5852CA-664C-4BBF-9155-2EB458090E69}.png",
     "assets/{936C5003-E39C-4081-8650-356401231D8D}.png",
-    "assets/{8F5852CA-664C-4BBF-9155-2EB458090E69}.png"
+    "Operating Systems/5. Input Output",
+    "assets/{02149781-494C-4862-9A10-E63F935C9E9A}.png",
+    "assets/{5ADB3351-7D38-4500-A362-B9F99B708D2C}.png",
+    "assets/{9E72209C-4EE0-4C28-BCE1-8108BC06AB14}.png",
+    "assets/{693DD376-D5F5-4BDC-8BED-8D170E170575}.png",
+    "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
+    "Operating Systems/Untitled.canvas"
   ]
 }
