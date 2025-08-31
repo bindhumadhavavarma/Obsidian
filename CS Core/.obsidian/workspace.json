@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
+                "file": "CS6746 Computer VIsion/TextBook/5. 3.4 Fourier Transforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. camera intrinsics"
+              "title": "5. 3.4 Fourier Transforms"
             }
           }
         ]
@@ -183,6 +183,11 @@
   },
   "active": "b2edcd16ebe65cce",
   "lastOpenFiles": [
+    "CS6746 Computer VIsion/TextBook/4. 3.2 Linear Filtering.md",
+    "CS6746 Computer VIsion/TextBook/5. 3.4 Fourier Transforms.md",
+    "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
+    "CS6746 Computer VIsion/TextBook/2. Chapter 2 Image Formation.md",
+    "CS6746 Computer VIsion/TextBook/1. Introduction.md",
     "Welcome.md",
     "Untitled.canvas",
     "Operating Systems/QnA/2. Processes and Threads.md",
@@ -207,11 +212,7 @@
     "Operating Systems/5. Input Output/5.2 Principles of IO Hardware 2.md",
     "Operating Systems/5. Input Output/5.3 IO Software Layers.md",
     "Operating Systems/5. Input Output/5.10 Power Management.md",
-    "Operating Systems/5. Input Output/5.1 Principles of IO Hardware.md",
     "Operating Systems/5. Input Output",
-    "Operating Systems/4. File Systems/4.7 File System - Examples.md",
-    "Operating Systems/4. File Systems/4.6 File System - Performance.md",
-    "Operating Systems/4. File Systems/4.5 File System - Consistency.md",
     "Operating Systems/4. File Systems",
     "Operating Systems/3. Memory Management",
     "Operating Systems/2. Processes and Threads",
