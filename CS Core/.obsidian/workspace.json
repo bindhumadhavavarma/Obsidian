@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS6746 Computer VIsion/TextBook/5. 3.4 Fourier Transforms.md",
+                "file": "C/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 3.4 Fourier Transforms"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -183,10 +183,19 @@
   },
   "active": "b2edcd16ebe65cce",
   "lastOpenFiles": [
-    "CS6746 Computer VIsion/TextBook/4. 3.2 Linear Filtering.md",
-    "CS6746 Computer VIsion/TextBook/5. 3.4 Fourier Transforms.md",
-    "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
+    "C++/6. OOPS.md",
+    "Latex/1. Introduction.md",
+    "CS6746 Computer VIsion/1. Intro Class.md",
     "CS6746 Computer VIsion/TextBook/2. Chapter 2 Image Formation.md",
+    "CS6746 Computer VIsion/3. class 26-08-25.md",
+    "CS6746 Computer VIsion/2. class 21-8-25.md",
+    "CS6746 Computer VIsion/4. class 02 09 25.md",
+    "Latex",
+    "Python/1. Notes.md",
+    "CS6746 Computer VIsion/TextBook/5. 3.4 Fourier Transforms.md",
+    "Python",
+    "CS6746 Computer VIsion/TextBook/4. 3.2 Linear Filtering.md",
+    "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
     "CS6746 Computer VIsion/TextBook/1. Introduction.md",
     "Welcome.md",
     "Untitled.canvas",
@@ -205,21 +214,12 @@
     "Operating Systems/5. Input Output/5.6 SSD and RAID.md",
     "Operating Systems/5. Input Output/Summary.md",
     "Operating Systems/5. Input Output/5.4 Principles of IO Software.md",
-    "Operating Systems/5. Input Output/5.9 GUI.md",
-    "Operating Systems/5. Input Output/5.8 Output Software.md",
-    "Operating Systems/5. Input Output/5.7 Clocks & Input software.md",
-    "Operating Systems/5. Input Output/5.5 Mass Storage - Disk and SSD.md",
-    "Operating Systems/5. Input Output/5.2 Principles of IO Hardware 2.md",
-    "Operating Systems/5. Input Output/5.3 IO Software Layers.md",
-    "Operating Systems/5. Input Output/5.10 Power Management.md",
     "Operating Systems/5. Input Output",
     "Operating Systems/4. File Systems",
     "Operating Systems/3. Memory Management",
     "Operating Systems/2. Processes and Threads",
     "Operating Systems/1. Introduction",
     "Operating Systems",
-    "CS7641 Machine Learning",
-    "CS6746 Computer VIsion/TextBook",
     "assets/{EE65766E-824B-40A5-8B0A-8BAE5ABD8D45}.png",
     "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
     "assets/{E21357DB-9C3D-4B48-A35D-096FAA92036B}.png",
