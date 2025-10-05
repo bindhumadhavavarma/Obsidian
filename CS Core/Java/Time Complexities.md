@@ -1,0 +1,3 @@
+
+.substring - O(n)
+

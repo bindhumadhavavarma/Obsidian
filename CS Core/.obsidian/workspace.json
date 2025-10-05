@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS6746 Computer VIsion/TextBook/4. 3.2 Linear Filtering.md",
+                "file": "Java/Time Complexities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 3.2 Linear Filtering"
+              "title": "Time Complexities"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "9b0fbd4115744395",
@@ -183,43 +183,43 @@
   },
   "active": "b2edcd16ebe65cce",
   "lastOpenFiles": [
+    "CS6210 Advanced Operating Systems/Research Papers/1.2 Microkernel.md",
+    "Java/Time Complexities.md",
+    "Java",
+    "CS6210 Advanced Operating Systems/Research Papers/1.1 Exokernel.md",
+    "CS6210 Advanced Operating Systems/3. liedtke MicroKernel Paper.md",
+    "CS6210 Advanced Operating Systems/class notes/Class 1.md",
+    "CS6746 Computer VIsion/5. class 23 -09-25.md",
+    "CS6210 Advanced Operating Systems/class notes",
+    "C++/5. Functions.md",
+    "C++/6. OOPS.md",
+    "Operating Systems/1. Introduction/8. Operating System Structures.md",
+    "CS6210 Advanced Operating Systems/Research Papers",
+    "CS6210 Advanced Operating Systems/Untitled.md",
+    "CS6746 Computer VIsion/TextBook/4. 3.2 Linear Filtering.md",
+    "CS6746 Computer VIsion/TextBook/5. 3.4 Fourier Transforms.md",
     "CS6746 Computer VIsion/TextBook/3. camera intrinsics.md",
     "CS6746 Computer VIsion/TextBook/2. Chapter 2 Image Formation.md",
+    "Operating Systems/2. Processes and Threads/2.1 Processes.md",
     "CS6746 Computer VIsion/TextBook/1. Introduction.md",
-    "CS6746 Computer VIsion/TextBook/4. 3.2 Linear Filtering.md",
     "CS6746 Computer VIsion/2. class 21-8-25.md",
     "CS6746 Computer VIsion/1. Intro Class.md",
-    "CS6746 Computer VIsion/TextBook/5. 3.4 Fourier Transforms.md",
     "CS6746 Computer VIsion/4. class 02 09 25.md",
     "CS6746 Computer VIsion/3. class 26-08-25.md",
     "CS6210 Advanced Operating Systems/project 1 impl.md",
     "CS6210 Advanced Operating Systems/Xen Credit Scheduler.md",
     "CS6210 Advanced Operating Systems/Project1 IMplementation.md",
     "C/1. Introduction.md",
-    "C++/6. OOPS.md",
     "Latex/1. Introduction.md",
     "Latex",
     "Python/1. Notes.md",
     "Python",
-    "Welcome.md",
     "Untitled.canvas",
-    "Operating Systems/QnA/2. Processes and Threads.md",
-    "Operating Systems/QnA/3. Memory Management.md",
-    "Operating Systems/QnA/1. Introduction.md",
     "Operating Systems/QnA",
-    "Operating Systems/6. Deadlocks/6.6 Other Issues.md",
-    "Operating Systems/6. Deadlocks/Summary.md",
-    "Operating Systems/6. Deadlocks/6.4 Deadlock Avoidance.md",
-    "Operating Systems/6. Deadlocks/6.5 Deadlock Prevention.md",
-    "Operating Systems/6. Deadlocks/6.3 Deadlock detection and Recovery.md",
-    "Operating Systems/6. Deadlocks/6.2 Deadlock Modelling.md",
     "Operating Systems/6. Deadlocks",
     "Operating Systems/5. Input Output",
     "Operating Systems/4. File Systems",
     "Operating Systems/3. Memory Management",
-    "Operating Systems/2. Processes and Threads",
-    "Operating Systems/1. Introduction",
-    "Operating Systems",
     "assets/{EE65766E-824B-40A5-8B0A-8BAE5ABD8D45}.png",
     "assets/{E38E24AA-63DA-4069-ADEB-571F2A10B50C}.png",
     "assets/{E21357DB-9C3D-4B48-A35D-096FAA92036B}.png",
